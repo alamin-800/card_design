@@ -1,0 +1,59 @@
+marquee h1{color:red;
+text-align: center;
+}
+.card{
+    width:350px;
+    margin:20px 45px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+    background-color:black;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    
+}
+.card:hover{
+    box-shadow: 6px 12px 10px white;
+}
+.card-2{
+    background-color:#511263;
+}
+
+.card-3{
+    background-color:lightseagreen;
+}
+.card-4{background-color: lightcoral;}
+.card-6{background-color: #EA4125;}
+.card-7{background-color: aqua;}
+.card-8{background-color:orangered;}
+.card-10{background-color:brown;}
+.card-11{background-color: #13914F;}
+.card-14{background-color:#183342;}
+.card-body{
+    padding:5px;
+}
+
+.card-body .card-desc{
+    text-align: justify;
+    font-size:12px;
+    line-height: 18px;
+    color:white;
+    padding:0 10px;
+}
+.card-desc p span{
+    color:orange;
+}
+.card-body .card-title{
+    font-size: 20px;
+    text-align: center;
+    color:white;
+  
+}
+.card-body .card-title h1 span{
+    color:orange;
+}
+.image-style{
+    width:100%;
+    border-radius: 20px 20px 0 0;
+    
+}
